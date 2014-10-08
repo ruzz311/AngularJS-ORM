@@ -2,3 +2,4 @@ modules/**/*.js
 modules/**/*.css
 bower_components/
 node_modules/
+.idea
